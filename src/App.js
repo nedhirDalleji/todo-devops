@@ -76,6 +76,10 @@ class App extends Component {
             />
             <Route path="/about" component={About} />
           </div>
+          <footer>
+            <p>Nedhir Dalleji - Class: 2GL</p>
+          </footer>
+
         </div>
       </Router>
     );

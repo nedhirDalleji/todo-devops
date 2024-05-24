@@ -1,3 +1,10 @@
+
+
+INSTALLED JENKINS PLUGINS : 
+- OWASP
+- Pipeline (so we can select the job type pipeline when creating new item)
+
+
 # TodoList
 
 This is the code for the React crash course on YouTube
