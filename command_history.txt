@@ -1,0 +1,7 @@
+  138  docker-compose up -d
+  139  clear
+  140  sudo docker-compose up -d
+  141  history
+  142  git add .
+  143  git commit -m "footer html + adding necessary files + READ.ME + screenshots"
+  144  git push
